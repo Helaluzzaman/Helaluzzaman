@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Helaluzzaman
+- 👋 Hi,
 - 👀 I’m interested in Mobile application development.
 - 🌱 I’m currently learning Android development.
 - 💞️ I’m looking to collaborate on Android application development.
