@@ -1,8 +1,5 @@
 - 👋 Hi,
-- 👀 I’m interested in Mobile application development.
-- 🌱 I’m currently learning Android development.
-- 💞️ I’m looking to collaborate on Android application development.
-- 📫 How to reach me ...
+- 📫 How to reach me ... I have no idea also... ; 
 
 <!---
 Helaluzzaman/Helaluzzaman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
